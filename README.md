@@ -2,6 +2,9 @@
 
 <p align="center">
 SillyTavern Preset <br>
+New versions: 
+  microcot_claude_deepseek_gpt
+  microcot_gemini_glm_kimi
 </p>
 
 ---
