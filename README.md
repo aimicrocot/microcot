@@ -2,7 +2,7 @@
 
 <p align="center">
 SillyTavern Preset<br>
-Regexes: github.com/aimicrocot/regexes<br>
+Regexes: https://github.com/aimicrocot/regexes<br>
 </p>
 
 ---
