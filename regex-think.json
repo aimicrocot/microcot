@@ -1,6 +1,6 @@
 {
     "id": "4eec4daa-7c18-4b08-b269-0f046d229a34",
-    "scriptName": "Regex Think",
+    "scriptName": "regex think",
     "findRegex": "/^.*?<\\/think>\\s*/gis",
     "replaceString": "",
     "trimStrings": [],
