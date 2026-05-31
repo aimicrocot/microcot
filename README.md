@@ -1,8 +1,8 @@
 # <h1 align="center">Microcot /ᐠ . ꞈ.マ </h1>
 
 <p align="center">
-SillyTavern Preset<br>
-Regexes: https://github.com/aimicrocot/regexes<br>
+Regexes: 
+  https://github.com/aimicrocot/regexes<br>
 </p>
 
 ---
