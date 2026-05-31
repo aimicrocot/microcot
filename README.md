@@ -1,7 +1,7 @@
 # <h1 align="center">Microcot /ᐠ . ꞈ.マ </h1>
 
 <p align="center">
-Regexes: 
+Regexes: <br>
   https://github.com/aimicrocot/regexes<br>
 </p>
 
