@@ -3,8 +3,8 @@
 <p align="center">
 SillyTavern Preset <br>
 New versions: 
-  microcot_claude_deepseek_gpt
-  microcot_gemini_glm_kimi
+  microcot_claude_deepseek_gpt<br>
+  microcot_gemini_glm_kimi<br>
 </p>
 
 ---
