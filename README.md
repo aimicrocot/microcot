@@ -34,18 +34,6 @@
 
 - The chat-style or immersive RP
 
-## For Which Models
-
-I consider it universal; tested on:
-
-- Gemini 2.5–3.1 Pro ~ my main model, the preset removes a lot of censorship + the lion’s share of clichés and repetitions  
-
-- Claude 4.1+ Sonnet/Opus ~ usable, but by nature more scattered and prone to memory loss (Memorybook and Summaries can help)  
-
-- GPT 5+ ~ usable, new GPTs have weaker filters, but if censorship becomes aggressive, enable Think + Talks or use synonyms for explicit content  
-
-- Deepseek V3–R1+ ~ usable according to my tests and feedback as well  
-
 ## About Think
 
 - The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
@@ -113,18 +101,6 @@ https://t.me/sillytavern1
 - Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок "No write for the user" 
 
 - Чат-стиль в мессенджере или иммерсивная РП
-
-## Для каких моделей
-
-Считаю его универсальным, тестировался на:
-
-- Gemini 2.5–3.1 Pro ~ моя основная модель, пресет убирает много цензуры + львиную долю клише и повторов
-
-- Claude 4.1+ Sonnet/Opus ~ пригодно, но по своей природе более рассеянные и склонные к потере памяти (Memorybook и Summaries могут помочь)
-
-- GPT 5+ ~ пригодно, новые GPT имеют более слабые фильтры, но если цензура становится агрессивной, включите Think + Talks или используйте синонимы для откровенного контента
-
-- Deepseek В3-Р1+ ~ пригодно исходя из моих тестов и отзывов тоже
 
 ## Про думалку
 
