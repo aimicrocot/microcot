@@ -22,11 +22,11 @@
 
 ## Preset Features
 
-- Customization ~ you can specify the language, response length, genres, fetishes, the narrative point of view, enable the writer-Microcat personality and its comments  
+- Customization ~ you can specify the language, response length, genres, fetishes, the narrative point of view, enable the Vibe Writer personality and its comments  
 
 - Separate bans on negative phrases, overused words, and constructions; you can add your own  
 
-- Anti-censorship thinker, which can be strengthened by adding Microcat-goblin personalities (enable Think and Micro Talks modules together)  
+- Anti-censorship think, which can be strengthened by adding Microcat-goblin personalities (enable Think and Vibe Think modules together)  
 
 - Many meta-stuff elements (in Meta-version) for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
 
@@ -38,7 +38,7 @@
 
 - The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
 
-- When to enable the thinker? If you see censorship. A custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets 
+- When to enable the think? If you see censorship. A custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets 
 
 - Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
 
@@ -90,11 +90,11 @@ https://t.me/sillytavern1
 
 ## Фичи пресета
 
-- Кастомность ~ можно вписать язык, длину ответов, жанры, фетиши, от какого лица будет писать, врубить личность писателя-Микрокота и его комменты
+- Кастомность ~ можно вписать язык, длину ответов, жанры, фетиши, от какого лица будет писать, врубить личность писателя-Микрокота Вайб писателя
 
 - Раздельные баны на негативные фразы, заезженные слова и конструкции, можете вписать свои
 
-- Антицензная думалка, которую можно усилить, дополнив личностями Микрокотов-гоблинов (включить вместе модули Think и Micro Talks)
+- Антицензная думалка, которую можно усилить, дополнив личностями Микрокотов-гоблинов (включить вместе модули Think и Vibe Think)
 
 - В Мета-версии много мета-штук к самой РП типа HTML/CSS & Img Gen, дневниковых заметок, мыслей, симс, комментов, инфотабов и т.д. (я их использую в качестве Quick Replies, но захотелось в итоге поделиться промтами в пресете кому интересно)
 
