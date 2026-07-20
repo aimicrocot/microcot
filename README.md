@@ -1,9 +1,8 @@
 # <h1 align="center">Microcot /ᐠ . ꞈ.マ </h1>
 
 <p align="center">
-<b>New versions:</b><br>
-  microcot_claude_deepseek_gpt (ru/en)<br>
-  microcot_gemini_glm_kimi (ru/en)<br>
+<b>Latest version:</b><br>
+  microcot_universal_no_xml (en)<br>
 </p>
 
 ---
