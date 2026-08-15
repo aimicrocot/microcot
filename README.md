@@ -7,7 +7,7 @@
 
 ---
 
-## English guide
+## English Guide
 
 <details>
   
